@@ -18,9 +18,9 @@
   },
   "homepage": "https://github.com/zazuko/barnard59-protocols",
   "dependencies": {
+    "@rdfjs/sink-to-duplex": "git+https://github.com/rdfjs/sink-to-duplex.git#master",
     "mqtt": "^2.18.8",
-    "rdf-store-sparql": "^2.0.0",
-    "sink-to-duplex": "git+https://github.com/rdfjs/sink-to-duplex.git#master"
+    "rdf-store-sparql": "^2.0.0"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
