@@ -1,7 +1,7 @@
 {
   "name": "barnard59-protocols",
   "version": "0.0.0",
-  "description": "Linked Data pipelines",
+  "description": "Support for various protocols for Barnard59 Linked Data pipelines",
   "main": "index.js",
   "scripts": {
     "test": "standard && mocha"
